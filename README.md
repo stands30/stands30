@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React JS, Vue JS
 - 💞️ I’m looking to collaborate on Website Development and SPA applications
 - 📫 You can reach me on my PortFolio
+- PortFolio Link Version 2: https://dsouzastanleyportfolio.herokuapp.com/
 - PortFolio Link: https://dsouzastan30.gitlab.io/stanleyportfolio/
 
 <!---
