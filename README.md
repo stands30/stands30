@@ -5,6 +5,7 @@
 - 📫 You can reach me on my PortFolio
 - PortFolio Link Version 2: [https://dsouzastanleyportfolio.netlify.app/](https://dsouzastanleyportfolio.netlify.app/)
 - PortFolio Link: https://dsouzastan30.gitlab.io/stanleyportfolio/
+- Developed an Portolio website using react and deployed on Github - https://stands30.github.io/portfolio-v2
 
 <!---
 stands30/stands30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
